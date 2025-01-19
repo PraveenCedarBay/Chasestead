@@ -1,0 +1,39 @@
+D:\Projects\Practise\EstimatesCust\obj\Debug\EstimatesCust.csproj.CoreCompileInputs.cache
+D:\Shipstation23R2\Bin\EstimatesCust.dll
+D:\Shipstation23R2\Bin\EstimatesCust.pdb
+D:\Projects\Practise\EstimatesCust\obj\Debug\EstimatesCust.csproj.CopyComplete
+D:\Projects\Practise\EstimatesCust\obj\Debug\EstimatesCust.dll
+D:\Projects\Practise\EstimatesCust\obj\Debug\EstimatesCust.pdb
+D:\Projects\Practise\EstimatesCust\obj\Debug\EstimatesCust.csprojAssemblyReference.cache
+D:\Acumatica ERP\Shipstation23R1\Bin\EstimatesCust.dll
+D:\Acumatica ERP\Shipstation23R1\Bin\EstimatesCust.pdb
+E:\Boga Naveen Kumar\Other Projects\MBrown\Acumatica ERP\Shipstation23R1\Bin\EstimatesCust.dll
+E:\Boga Naveen Kumar\Other Projects\MBrown\Acumatica ERP\Shipstation23R1\Bin\EstimatesCust.pdb
+E:\Boga Naveen Kumar\Other Projects\MBrown\ChaseStead\Working Copy\EstimatesCust\obj\Debug\EstimatesCust.csproj.CoreCompileInputs.cache
+E:\Boga Naveen Kumar\Other Projects\MBrown\ChaseStead\Working Copy\EstimatesCust\obj\Debug\EstimatesCust.csproj.CopyComplete
+E:\Boga Naveen Kumar\Other Projects\MBrown\ChaseStead\Working Copy\EstimatesCust\obj\Debug\EstimatesCust.dll
+E:\Boga Naveen Kumar\Other Projects\MBrown\ChaseStead\Working Copy\EstimatesCust\obj\Debug\EstimatesCust.pdb
+E:\Acumatica ERP Instances\CStead23R1\Bin\EstimatesCust.dll
+E:\Acumatica ERP Instances\CStead23R1\Bin\EstimatesCust.pdb
+E:\Boga Naveen Kumar\Other Projects\MBrown\ChaseStead\Working Copy\EstimatesCust\obj\Debug\EstimatesCust.csproj.AssemblyReference.cache
+C:\Program Files\Acumatica ERP\CStead23R1\EstimatesCust.dll
+C:\Program Files\Acumatica ERP\CStead23R1\EstimatesCust.pdb
+C:\Boga Naveen Kumar\Projects\ChaseStead\23 R1\EstimatesCust\obj\Debug\EstimatesCust.csproj.AssemblyReference.cache
+C:\Boga Naveen Kumar\Projects\ChaseStead\23 R1\EstimatesCust\obj\Debug\EstimatesCust.csproj.CoreCompileInputs.cache
+C:\Boga Naveen Kumar\Projects\ChaseStead\23 R1\EstimatesCust\obj\Debug\Estimate.C01C7618.Up2Date
+C:\Boga Naveen Kumar\Projects\ChaseStead\23 R1\EstimatesCust\obj\Debug\EstimatesCust.dll
+C:\Boga Naveen Kumar\Projects\ChaseStead\23 R1\EstimatesCust\obj\Debug\EstimatesCust.pdb
+C:\Program Files\Acumatica ERP\CStead23R1\Bin\EstimatesCust.dll
+C:\Program Files\Acumatica ERP\CStead23R1\Bin\EstimatesCust.pdb
+C:\Program Files\Acumatica ERP\CStead24R1\Bin\EstimatesCust.dll
+C:\Program Files\Acumatica ERP\CStead24R1\Bin\EstimatesCust.pdb
+C:\Boga Naveen Kumar\EstimatesCust\obj\Debug\EstimatesCust.csproj.AssemblyReference.cache
+C:\Boga Naveen Kumar\EstimatesCust\obj\Debug\EstimatesCust.csproj.CoreCompileInputs.cache
+C:\Boga Naveen Kumar\EstimatesCust\obj\Debug\Estimate.C01C7618.Up2Date
+C:\Boga Naveen Kumar\EstimatesCust\obj\Debug\EstimatesCust.dll
+C:\Boga Naveen Kumar\EstimatesCust\obj\Debug\EstimatesCust.pdb
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\EstimatesCust\obj\Debug\EstimatesCust.csproj.AssemblyReference.cache
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\EstimatesCust\obj\Debug\EstimatesCust.csproj.CoreCompileInputs.cache
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\EstimatesCust\obj\Debug\EstimatesCust.dll
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\EstimatesCust\obj\Debug\EstimatesCust.pdb
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\EstimatesCust\obj\Debug\Estimate.C01C7618.Up2Date

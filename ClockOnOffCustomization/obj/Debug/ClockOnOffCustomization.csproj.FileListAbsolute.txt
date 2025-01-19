@@ -1,0 +1,14 @@
+C:\Users\Naveen B\source\repos\CStead23R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.csproj.AssemblyReference.cache
+C:\Users\Naveen B\source\repos\CStead23R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.csproj.CoreCompileInputs.cache
+C:\Program Files\Acumatica ERP\CStead23R1\Bin\ClockOnOffCustomization.dll
+C:\Program Files\Acumatica ERP\CStead23R1\Bin\ClockOnOffCustomization.pdb
+C:\Users\Naveen B\source\repos\CStead23R1\ClockOnOffCustomization\obj\Debug\ClockOnO.C974027E.Up2Date
+C:\Users\Naveen B\source\repos\CStead23R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.dll
+C:\Users\Naveen B\source\repos\CStead23R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.pdb
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.csproj.AssemblyReference.cache
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.csproj.CoreCompileInputs.cache
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.dll
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\ClockOnOffCustomization\obj\Debug\ClockOnOffCustomization.pdb
+C:\Program Files\Acumatica ERP\CStead24R1\Bin\ClockOnOffCustomization.dll
+C:\Program Files\Acumatica ERP\CStead24R1\Bin\ClockOnOffCustomization.pdb
+C:\Boga Naveen Kumar\Projects\Matt\ChaseStead\24 R1\ClockOnOffCustomization\obj\Debug\ClockOnO.C974027E.Up2Date
